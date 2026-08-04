@@ -13,8 +13,4 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 
 <br>
 
-### 📊 GitHub Stats
 
-[![Anish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANISHYADAV19&show_icons=true&theme=tokyonight)](https://github.com/ANISHYADAV19)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANISHYADAV19&layout=compact&theme=tokyonight)](https://github.com/ANISHYADAV19)
