@@ -14,4 +14,7 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 <br>
 
 ### 📊 GitHub Stats
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANISHYADAV19&show_icons=true&theme=tokyonight" alt="Anish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANISHYADAV19&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
