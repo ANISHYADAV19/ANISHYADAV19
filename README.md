@@ -16,6 +16,8 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge)
 
-
+**Databases & Architecture** <br>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Database Management](https://img.shields.io/badge/Database_Management-003B57?style=for-the-badge)
 
 
