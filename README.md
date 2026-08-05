@@ -20,4 +20,6 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Database Management](https://img.shields.io/badge/Database_Management-003B57?style=for-the-badge)
 
-
+**Version Control** <br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
