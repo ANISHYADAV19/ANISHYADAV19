@@ -23,3 +23,7 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 **Version Control** <br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+**Core Competencies** <br>
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge)
+![Edge Computing](https://img.shields.io/badge/Edge_Computing-0078D4?style=for-the-badge)
