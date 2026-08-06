@@ -105,9 +105,16 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 
 
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anish-yadav-528941333)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishyadav872004@gmail.com)
+<h3 align="center">📫 Let's Connect</h3>
+
+<div align="center">
+  <a href="https://linkedin.com/in/anish-yadav-528941333">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anishyadav872004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 
 
