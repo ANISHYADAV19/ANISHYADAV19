@@ -2,32 +2,96 @@
 
 I'm a developer and student passionate about **Computer Vision**, **Deep Reinforcement Learning**, and **Natural Language Processing**. I enjoy bridging the gap between theoretical algorithms and real-world deployment.
 
-### 🛠️ Technical Skills
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
-**Programming Languages** <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<div align="center">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Tech%20Stack&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Tech Stack Header"/></a>
+</div>
 
-**Web Development** <br>
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=for-the-badge)
+<table>
+<tr>
+<td valign="top" width="25%">
 
-**Databases & Architecture** <br>
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Database Management](https://img.shields.io/badge/Database_Management-003B57?style=for-the-badge)
+**Languages & Backend**
 
-**Version Control** <br>
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=python,java,cpp,nodejs&perline=4" /></a>
 
-**Core Competencies** <br>
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge)
-![Edge Computing](https://img.shields.io/badge/Edge_Computing-0078D4?style=for-the-badge)
+</td>
+<td valign="top" width="25%">
 
+**Frontend**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,react&perline=4" /></a>
+
+</td>
+<td valign="top" width="25%">
+
+**Databases & APIs**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql&perline=4" /></a>
+<br/>
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#) <br/>
+[![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-005571?style=flat-square)](#) <br/>
+[![Database Mgmt](https://img.shields.io/badge/Database_Management-003B57?style=flat-square)](#)
+
+</td>
+<td valign="top" width="25%">
+
+**Tools & Domain**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github&perline=4" /></a>
+<br/>
+[![Version Control](https://img.shields.io/badge/Version_Control-F05032?style=flat-square)](#) <br/>
+[![Data Vis](https://img.shields.io/badge/Data_Visualization-FF6F00?style=flat-square)](#) <br/>
+[![Edge Computing](https://img.shields.io/badge/Edge_Computing-0078D4?style=flat-square)](#)
+
+</td>
+</tr>
+</table>
+
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
+
+<div align="center">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=GitHub%20Analytics&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="GitHub Analytics Header"/></a>
+</div>
+
+<div align="center">
+
+<a href="https://github.com/ANISHYADAV19">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ANISHYADAV19&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+    <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ANISHYADAV19&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </picture>
+</a>
+&nbsp;
+<a href="https://github.com/ANISHYADAV19">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ANISHYADAV19&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" />
+    <img width="48%" src="https://streak-stats.demolab.com?user=ANISHYADAV19&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" alt="GitHub Streak" />
+  </picture>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ANISHYADAV19"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ANISHYADAV19&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ANISHYADAV19"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ANISHYADAV19&layout=compact&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=10" width="48%" alt="Top Languages"/></a>
+</div>
+
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
+
+<div align="center">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Featured%20Projects&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Featured Projects Header"/></a>
+</div>
+
+<div align="center">
 
 
 
