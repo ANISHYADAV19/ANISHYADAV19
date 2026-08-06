@@ -2,8 +2,9 @@
 
 I'm a developer and student passionate about **Computer Vision**, **Deep Reinforcement Learning**, and **Natural Language Processing**. I enjoy bridging the gap between theoretical algorithms and real-world deployment.
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
+
+<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 <div align="center">
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Tech%20Stack&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Tech Stack Header"/></a>
 </div>
@@ -71,6 +72,11 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
   </picture>
 </a>
 
+
+
+
+
+
 </div>
 
 <br/>
@@ -78,6 +84,9 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 <div align="center">
   <a href="https://github.com/ANISHYADAV19"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ANISHYADAV19&bg_color=0d1117&color=6c63ff&line=6c63ff&point=ffffff&area=true&area_color=6c63ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/></a>
 </div>
+
+
+
 
 <br/>
 
