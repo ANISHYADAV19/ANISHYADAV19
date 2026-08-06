@@ -87,11 +87,7 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
-<div align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Featured%20Projects&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Featured Projects Header"/></a>
-</div>
 
-<div align="center">
 
 
 
