@@ -104,13 +104,7 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 
 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ANISHYADAV19/ANISHYADAV19/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ANISHYADAV19/ANISHYADAV19/output/github-snake.svg">
-    <img alt="Anish's Contribution Snake" src="https://raw.githubusercontent.com/ANISHYADAV19/ANISHYADAV19/output/github-snake.svg">
-  </picture>
-</div>
+
 
 
 
