@@ -5,7 +5,7 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 
 
 
-# Tech Stack
+
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 <div align="center">
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Tech%20Stack&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Tech Stack Header"/></a>
@@ -56,7 +56,9 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 
 
 
-#Git hub Analytics
+
+
+
 
 
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
@@ -96,15 +98,6 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 
 
 
-#Top languages
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ANISHYADAV19"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ANISHYADAV19&layout=compact&hide_border=true&bg_color=0d1117&title_color=6c63ff&text_color=c9d1d9&langs_count=10" width="48%" alt="Top Languages"/></a>
-</div>
-
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
 
 
@@ -119,7 +112,8 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 
 
 
-#📫 Let's Connect
+
+
 
 
 
