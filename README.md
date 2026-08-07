@@ -3,7 +3,7 @@
 I'm a developer and student passionate about **Computer Vision**, **Deep Reinforcement Learning**, and **Natural Language Processing**. I enjoy bridging the gap between theoretical algorithms and real-world deployment.
 
 
-
+# Tech Stack
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 <div align="center">
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=transparent&color=6c63ff&height=60&section=header&text=Tech%20Stack&fontSize=30&fontAlignY=70&fontColor=c9d1d9" alt="Tech Stack Header"/></a>
