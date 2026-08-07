@@ -2,29 +2,31 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # Runs automatically every 12 hours
     - cron: "0 */12 * * *"
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
+
+# This explicitly tells GitHub to allow this script to push code
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # Updated to v4 to fix the Node.js warning
+      - uses: actions/checkout@v4
 
       - name: Generate the Snake Animation
         uses: Platane/snk@v3
         with:
-          # Your GitHub username
           github_user_name: ANISHYADAV19
-          # Generates both a light and dark theme version
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # Updated to v4 to fix the Exit Code 128 error
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
