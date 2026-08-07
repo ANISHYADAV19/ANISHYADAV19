@@ -3,6 +3,8 @@
 I'm a developer and student passionate about **Computer Vision**, **Deep Reinforcement Learning**, and **Natural Language Processing**. I enjoy bridging the gap between theoretical algorithms and real-world deployment.
 
 
+
+
 # Tech Stack
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 <div align="center">
@@ -50,6 +52,13 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 </tr>
 </table>
 
+
+
+
+
+#Git hub Analytics
+
+
 <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=6c63ff&height=2" width="100%"/></a>
 
 <div align="center">
@@ -74,7 +83,7 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 
 
 
-
+#Graphs
 
 
 </div>
@@ -87,6 +96,7 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 
 
 
+#Top languages
 
 <br/>
 
@@ -109,7 +119,7 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 
 
 
-
+#📫 Let's Connect
 
 
 
