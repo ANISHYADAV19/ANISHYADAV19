@@ -79,10 +79,7 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 </a>
 &nbsp;
 <a href="https://github.com/ANISHYADAV19">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ANISHYADAV19&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" />
-   <img width="48%" src="https://streak-stats.demolab.com?user=ANISHYADAV19&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" alt="GitHub Streak" />
-  </picture>
+  <img width="48%" src="https://streak-stats.demolab.com?user=ANISHYADAV19&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9&v=2" alt="GitHub Streak" />
 </a>
 
 
