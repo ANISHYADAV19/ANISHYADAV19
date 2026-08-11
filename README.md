@@ -78,9 +78,9 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 
    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ANISHYADAV19&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ANISHYADAV19&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&include_all_commits=true&cache_seconds=86400&v=2" alt="GitHub Stats" />
 
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ANISHYADAV19&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6c63ff&icon_color=6c63ff&text_color=c9d1d9&include_all_commits=true" alt="GitHub Stats" />
 
 
 
