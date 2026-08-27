@@ -102,11 +102,7 @@ I'm a developer and student passionate about **Computer Vision**, **Deep Reinfor
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/ANISHYADAV19">
-    <img src="https://github-readme-stats.vercel.app/api?username=ANISHYADAV19&show_icons=true&theme=react&hide_border=true&bg_color=0d1117" alt="Anish's GitHub Stats" />
-  </a>
-</div>
+
 
 
 
